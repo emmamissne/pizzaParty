@@ -4,5 +4,5 @@
 - Red pepper
 - lime
 - green onion
-- mozzarella
+- vegan mozzarella
 - avacado
